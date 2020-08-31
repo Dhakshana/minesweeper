@@ -1,5 +1,5 @@
 var grid = document.getElementById("grid");
-var testMode = false; //Turn this variable to true to see where the mines are
+var testMode = false;
 generateGrid();
 
 function generateGrid() {
